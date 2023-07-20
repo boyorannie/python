@@ -1,1 +1,5 @@
-print("Bonjour, bienvenue en Python!")
+def somme(nombre1, nombre2)
+  return nombre1 + nombre2;
+
+/ la fonction def permet de faire la somme de deux nombres et 1 et 2
+/ return permet d'afficher le resultat de la somme
